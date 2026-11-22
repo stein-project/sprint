@@ -1,0 +1,14 @@
+{
+  "id": "steinsprint",
+  "name": "Sprint",
+  "version": "0.1.0",
+  "author": "X4vieer",
+  "description": "Toggle sprint and toggle sneak with a key, and your movement state on the HUD. It only holds the game's keys: the game still decides when you sprint.",
+  "entry": "dev.xavier.stein.sprint.SteinSprint",
+  "loader": "0.1.35",
+  "features": [
+    "toggleSprint",
+    "toggleSneak"
+  ],
+  "source": "https://github.com/Stein-Project/sprint/releases/latest/download/steinmods.json"
+}
